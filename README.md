@@ -1,5 +1,5 @@
 Flight Search is a program that notifies you and your users when a flight's cost is cheaper than the Lowest Price you set. See images below.
-You will receive a text notification while your users receive an email notification.
+<br />You will receive a text notification while your users receive an email notification.
 
 ## How to use?
 1. Setup a Twilio account and modify the notification_manager.py. Fill in all info required.
