@@ -7,7 +7,7 @@ Flight Search is a program that notifies you and your users when a flight's cost
    - Note, you will need to create a Google Sheet with 2 tabs: "prices" and "users". See images below.
    - Note, you can leave the users Google Sheet empty if you only intend to use this for yourself.
 3. Setup a Tequila account and modify the flight_search.py to insert your Tequila API key
-   - Note, after creating an account, you will need to create a 'solution'. Choose **Meta Search** then **One-Way and Return** when creating the solution
+   - Note, after creating an account, you will need to create a 'solution'. Choose "**Meta Search**" then "**One-Way and Return**" when creating the solution
 5. In main.py, modify the ORIGIN_CITY_IATA and set it to your city's IATA.
 
 Note, you can only make up to 200 requests per month on the free Sheety account. Upgrade your account for more requests.
