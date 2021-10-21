@@ -10,5 +10,6 @@ Flight Search is a program that notifies you and your users when a flight's cost
 4. In main.py, modify the ORIGIN_CITY_IATA and set it to your city's IATA.
 
 Note, you can only make up to 200 requests per month on the free Sheety account. Upgrade your account for more requests.
+<br />
 ![prices](https://user-images.githubusercontent.com/24804326/138363840-817a682d-941e-440e-87a3-37cced2a94c4.png)
 ![users](https://user-images.githubusercontent.com/24804326/138363849-f86e9a30-ecd7-4760-aa94-b3cb8546d63f.png)
